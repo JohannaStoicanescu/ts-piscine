@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2023",
+    "noEmitOnError": true,
+    "strict": true,
+    "declaration": true
+  },
+  "include": ["./**/*.ts"]
+}
