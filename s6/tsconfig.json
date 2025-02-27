@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2015",
+    "noEmitOnError": true,
+    "strict": true,
+    "declaration": true,
+    "noEmit": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "ep1/**/*",
+    "ep1/**/*.ts",
+    "ep1/**/*.js",
+    "ep1/mon-module/**/*.d.ts",
+    "ep1/mon-module/**/*.js"
+  ]
+}
